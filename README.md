@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+### About me
+- 🌎 I'm Brazilian 🇧🇷
+- 💻 I program in Python and I'm interested in learning C#
+- 📚 I'm currently learning Git and Web Development
+- ⚡ Fun fact: I enjoy solving Rubik's cubes, I like playing volleyball 🏐, I love Batman 🦇, and I'm really interested in Assassin's Creed ⚔️
 <!--
 **ezionf/ezionf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
